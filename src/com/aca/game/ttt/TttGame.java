@@ -8,6 +8,9 @@ import com.aca.game.player.TttBoardMarker;
 import com.aca.game.player.TttPlayer;
 import com.aca.game.rules.TttRules;
 
+/*
+ * This is the main class
+ */
 public class TttGame extends Game {
 
 	private TttPlayer player1 = new TttPlayer(TttBoardMarker.X);
