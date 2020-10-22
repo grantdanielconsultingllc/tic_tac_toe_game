@@ -1,0 +1,10 @@
+/bin/
+*.class
+.project
+.classpath
+.settings
+/target/
+
+*sns*.java
+/test-output/
+*.zip
