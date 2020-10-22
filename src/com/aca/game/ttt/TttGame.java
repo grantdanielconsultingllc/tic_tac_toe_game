@@ -3,7 +3,7 @@ package com.aca.game.ttt;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.aca.game.Game;
+import com.aca.game.ttt.Game;
 import com.aca.game.player.TttBoardMarker;
 import com.aca.game.player.TttPlayer;
 import com.aca.game.rules.TttRules;

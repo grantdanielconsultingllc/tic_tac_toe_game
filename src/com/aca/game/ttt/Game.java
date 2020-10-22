@@ -1,4 +1,4 @@
-package com.aca.game;
+package com.aca.game.ttt;
 
 public abstract class Game {
 
